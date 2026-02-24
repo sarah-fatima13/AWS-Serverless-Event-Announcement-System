@@ -20,8 +20,7 @@ The system is fully event-driven, scalable, cost-effective, and demonstrates rea
 
 ## Architectural Diagram:
 
-
-
+<img width="943" height="607" alt="Image" src="https://github.com/user-attachments/assets/aaa1ff12-4a7b-47b8-8756-612029a70099" />
 
 ## Project Steps (Working):
 
